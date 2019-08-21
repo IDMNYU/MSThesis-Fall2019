@@ -34,9 +34,9 @@ Create a Google Drive folder that contains the following. Make sure all filename
 
 ## LETTER TO NEXT COHORT
 
-* Please name your file as firstnameinitiallastname\_thesis\_fa18\_letter.pdf \(i.e. ehenaff\_thesis\_f18\_letter.pdf\)
+* Please name your file as firstnameinitiallastname\_thesis\_fa18\_letter.pdf \(i.e. kmcdermott\_thesis\_f19\_letter.pdf\)
 
-* Also make sure that you have a header within the actual document. i.e. Your Name / Fall 2018 / IDM MS Thesis / Letter to Next Cohort.
+* Also make sure that you have a header within the actual document. i.e. Your Name / Fall 2019 / IDM MS Thesis / Letter to Next Cohort.
 
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. \(What would you do differently if you could start the course again? What would you do the same?\)
 
