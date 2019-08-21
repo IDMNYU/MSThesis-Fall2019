@@ -65,7 +65,7 @@ In this essay, Donna Haraway discusses the implosion of nature and culture in th
 - Calendar of Production
 	- How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. 
 
-#### Week 5:
+### Week 5:
 
 - Weekly post on your process website
 
@@ -82,7 +82,7 @@ In this essay, Donna Haraway discusses the implosion of nature and culture in th
 	- Please fill out the following form with your preferences: https://forms.gle/g1iFJjMwB3PG7Fsa9
 I will do my best to match you with someone on your list. 
 
-## Week 6 
+### Week 6 
 
 - Weekly post on your process website showing progress toward project
 
@@ -94,7 +94,7 @@ I will do my best to match you with someone on your list.
 	- Where appropriate, leave space for work that will happen later in semester. 
 
 
-## Week 7 
+### Week 7 
 
 - Mid-term presentations, advisors will be present. 
 	- No more than 10 minutes, please time yourself. These should include a brief overview of your background and method, (you may refer to your earlier paper outline) as well as your progress toward completing your project. 
