@@ -4,7 +4,7 @@ ___
 
 All assignments are due Mondays at 5pm, uploaded to our shared Google Drive folder (MS-Thesis-Deliverables_yourname) unless specified otherwise. Please make sure NYU users can comment on your assignments.
 
-Your process website should be updated every week, with links to assignments, as well any other relevant information, such as pictures of project progress. More guidelines on maintaining your thesis website can be found [here:](https://kitmcdermott.github.io/MSThesis_Fall_2019/_pages/thesis-process-website.html)
+Your process website should be updated every week, with links to assignments, as well any other relevant information, such as pictures of project progress. More guidelines on maintaining your thesis website can be found [here:](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-process-website.html)
 
 ### Week 1:
 - Project Pitch Due
@@ -20,7 +20,7 @@ Your process website should be updated every week, with links to assignments, as
 
 - Class Website Should be Live
 
-	- More guidelines on maintaining your thesis website can be found [here:](https://kitmcdermott.github.io/MSThesis_Fall_2019/_pages/thesis-process-website.html)
+	- More guidelines on maintaining your thesis website can be found [here:](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-process-website.html)
 
 - Proposed method + 10 minute method presentation:
 
@@ -45,9 +45,9 @@ In this essay, Donna Haraway discusses the implosion of nature and culture in th
 - Weekly post on your process website, highlight any progress toward your project (beyond the writing)  
 
 - Outline  
-	- Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MS-Thesis-Spring-2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
+	- Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
 
-	- The outline corresponds to your future Table of Contents. Refer to our shared class folder for [examples of past theses](https://drive.google.com/drive/u/1/folders/1H8sbVdIDZ62vrR7rS3YcGQSOScM7q8e0) and their tables of contents.   
+	- The outline corresponds to your future Table of Contents. Refer to our shared class folder for [LINK NEEDED]and their tables of contents.   
 
 	- Bring 2 printed copies to class for our outlining workshop.   
  
@@ -56,7 +56,7 @@ In this essay, Donna Haraway discusses the implosion of nature and culture in th
 
 - Weekly post on your process website
 
-- Background section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MS-Thesis-Spring-2019/_pages/thesis-paper.html) section of the website for details.   
+- Background section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
     - Build upon the bibliography you turned in for Week 2 for this section. 
     - minimum page requirement: 10 pages, 12pt font, double spaced (15-20 recommended.) 
@@ -86,7 +86,7 @@ I will do my best to match you with someone on your list.
 
 - Weekly post on your process website showing progress toward project
 
-- Methods section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MS-Thesis-Spring-2019/_pages/thesis-paper.html) section of the website for details.   
+- Methods section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
     - Build upon the method presentation you made in Week 2 
     - minimum page requirement: 10 pages, 12pt font, double-spaced 
