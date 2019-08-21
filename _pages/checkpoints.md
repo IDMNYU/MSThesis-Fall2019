@@ -2,7 +2,7 @@ ___
 # Checkpoints
 
 
-There are five checkpoints throughout the semester, at which your Thesis Instructor will critically evaluate your progress and give you a go/no-go for your thesis defense. If you do not show satisfactory work for a given checkpoint, you will have 1 week to get up to speed and you must come to office hours and present your updated progress. 
+There are five checkpoints throughout the semester, at which your Thesis Instructor will critically evaluate your progress and give you a go/no-go for your thesis defense. If the instructor feels you have not adequately reached a checkpoint, you will be notified. You will have 1 week to raise the quality of your work and you must come to office hours and present your updated progress. If you fail to make adequate progress, additional departmental measures may be taken, and your progress toward completing your thesis may be put on hold. 
 
 The checkpoints are the following:
 
