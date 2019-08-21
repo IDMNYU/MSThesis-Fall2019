@@ -1,6 +1,7 @@
 
 ___
 # Assignments 
+Assignments are designed to contribute to your final deliverables, including your final thesis paper, presentation, and project. Certain assignments are associated with [checkpoints](https://idmnyu.github.io/MSThesis-Fall2019/_pages/checkpoints.html)
 
 All assignments are due Mondays at 5pm, uploaded to our shared Google Drive folder (MS-Thesis-Deliverables_yourname) unless specified otherwise. Please make sure NYU users can comment on your assignments.
 
