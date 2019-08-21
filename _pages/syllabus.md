@@ -16,7 +16,7 @@ _Office hours_:
 
 Tuesdays 1pm–3pm, or by appointment.
 
-Website: https://kitmcdermott.github.io/MSThesis_Fall_2019/
+Website: https://idmnyu.github.io/MSThesis-Fall2019/
 
 Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
 
