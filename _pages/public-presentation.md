@@ -5,4 +5,5 @@ A new requirement we are piloting for MS Thesis Fall 2019! This is designed to e
 
 1. You are required to share your work publicly in some manner. An appropriate public presentation may vary, depending on your field. Please see these documents as a reference. (links needed)
 
-2. You are required to participate in the public thesis presentation December 16th and 17th. You will have the opportunity to give a 15 minute presentation on your work, and receive 10 minutes of feedback. Simulataneously, your work will be on display at 370 Jay Street. All full-time IDM faculty will be in attendance. 
+2. You are required to participate in the public thesis presentation December 16th and 17th. You will have the opportunity to give a 15 minute presentation on your work, and receive 10 minutes of feedback. Simulataneously, your work will be on display at 370 Jay Street. All full-time IDM faculty will be in attendance. Though the time allotted to present your work will be short, you can still make it count! See the 3-minute thesis award as a reference: http://mags-net.org/three-minute-thesis-award/ 
+
