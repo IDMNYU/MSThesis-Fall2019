@@ -29,7 +29,8 @@ Your process website should be updated every week, with links to assignments, as
 	- You should also note how you imagine sharing your work publicly, as per the new requirement, which is 15% of your grade. (Link to docs needed)
 
 - List of references
-
+	- Choose a citation style and stick with it. [https://guides.nyu.edu/citations](See this link for more info). 
+	
 	- Submit a Google Doc or Word file with at least 5 references. These can be journal articles, books, essays or websites––but you must have at least 3 that are scholarly publications (books or essays that are critical or theoretical in nature). 
 
 	- Annotate each one with a 2-3 sentence description of how this publication informs your work. 
@@ -39,6 +40,8 @@ For example:
 "Haraway, D. J. _The companion species manifesto : dogs, people, and significant otherness._
 
 In this essay, Donna Haraway discusses the implosion of nature and culture in the joint lives of dogs and people, who are bonded in 'significant otherness.' This text investigates the notions of co-evolution, and is relevant to my project that aims to design a set of objects for interspecies communication for a speculative but not too distant future. "
+
+Your bibliography should include a diversity of sources, including contemporary publications and "canonical," texts in your field. You should use a mixture of primary and secondary sources, and your sources should be relevant to your topic area. The thoroughness of your final reference section will be a significant factor in your overal paper grade.
 	
 
 ### Week 3:
