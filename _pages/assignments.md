@@ -67,7 +67,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 	- All sources must be cited. Background section and references account for 20% of your grade.
 
 - Calendar of Production
-	- How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. 
+	- How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. Please be sure to also note your plans for fulfilling the public-presentation requirement of the thesis. 
 
 ### Week 5:
 
