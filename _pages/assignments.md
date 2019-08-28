@@ -29,7 +29,7 @@ Your process website should be updated every week, with links to assignments, as
 	- You should also note how you imagine sharing your work publicly, as per the new requirement, which is 15% of your grade. (Link to docs needed)
 
 - List of references
-	- Choose a citation style and stick with it. [https://guides.nyu.edu/citations](See this link for more info). 
+	- Choose a citation style and stick with it.  [See this link for more info](https://guides.nyu.edu/citations). 
 	
 	- Submit a Google Doc or Word file with at least 5 references. These can be journal articles, books, essays or websites––but you must have at least 3 that are scholarly publications (books or essays that are critical or theoretical in nature). 
 
