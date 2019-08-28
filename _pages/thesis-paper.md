@@ -117,7 +117,7 @@ For clarity, you can name each iteration \(Pilot 1, 2, 3; Experiment 1, 2, 3; Pr
 
 # 6. References
 
-* Choose a citation style and stick with it. [https://guides.nyu.edu/citations](See this link for more info). Your bibliography should include a diversity of sources, including contemporary publications and "canonical," texts in your field. You should use a mixture of primary and secondary sources, and your sources should be relevant to your topic area. The thoroughness of your reference section will be a significant factor in your overal paper grade.
+* Choose a citation style and stick with it. [See this link for more info](https://guides.nyu.edu/citations). Your bibliography should include a diversity of sources, including contemporary publications and "canonical," texts in your field. You should use a mixture of primary and secondary sources, and your sources should be relevant to your topic area. The thoroughness of your reference section will be a significant factor in your overal paper grade.
 
 
 # Proofread your work and use TurnItIn
