@@ -51,16 +51,17 @@ Your bibliography should include a diversity of sources, including contemporary 
 
 ### Due Week 3:
 
-- Weekly post on your process website, highlight any progress toward your project (beyond the writing)  
+**Weekly post on your process website** 
+-highlight any progress toward your project (beyond the writing)  
 
-- Outline  
-	- Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
+**Outline**  
+- Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
 
-	- The outline corresponds to your future Table of Contents. Refer to our shared class folder for [LINK NEEDED]and their tables of contents.   
+- The outline corresponds to your future Table of Contents. Refer to our shared class folder for [LINK NEEDED]and their tables of contents.   
 
-	- Bring 2 printed copies to class for our outlining workshop. 
+- Bring 2 printed copies to class for our outlining workshop. 
 
-#### Continue reaching out to advisors
+**Continue reaching out to advisors**
 
 - [Here](https://docs.google.com/spreadsheets/d/1EgK6Ze8O4v8VG606VNmtfX2MA5nDpR2dOT1FFCqE57o/edit?usp=sharing) will be a list of pre-approved advisors for MS Thesis. Please peruse this carefully, and look at their work. Send polite, and carefully worded pitches to potential advisors directly. (Note, there may new additions to this list up until Friday)
 
