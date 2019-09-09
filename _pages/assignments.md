@@ -12,7 +12,7 @@ Your process website should be updated every week, with links to assignments, as
 
 	- Be prepared to share a brief (1 page) project pitch with a classmate for peer edit. This may mean bringing in a hard copy, or making a google doc. Also submit a copy to google drive so that I may review. You will be using this pitch to solicit potential advisors for your project.  
 
-	- [Here](link needed) will be a list of pre-approved advisors for MS Thesis. Please peruse this carefully, and look at their work. Send polite, and carefully worded pitches to potential advisors directly.
+	- [Here](https://docs.google.com/spreadsheets/d/1EgK6Ze8O4v8VG606VNmtfX2MA5nDpR2dOT1FFCqE57o/edit?usp=sharing) will be a list of pre-approved advisors for MS Thesis. Please peruse this carefully, and look at their work. Send polite, and carefully worded pitches to potential advisors directly.
 
 	- If you have another advisor in mind, send me a note so that I may review their credentials before you contact them. 
 
