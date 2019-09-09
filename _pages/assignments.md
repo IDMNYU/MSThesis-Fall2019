@@ -25,7 +25,7 @@ Your process website should be updated every week, with links to assignments, as
 
 - Proposed method + 10 minute method presentation:
 
-	- Based on last week’s methodology workshop, identify a method that makes sense for your project. Prepare a presentation that introduces and gives a brief background on the methodology, and then explain how you plan to apply this method to your project. Include any progress made so far.
+	- Based on last week’s methodology workshop, identify a methodology AND related methods that makes sense for your project. Prepare a presentation that introduces and gives a brief background on the methodology, and then explain how you plan to apply it to your project. Include any progress made so far.
 	- You should also note how you imagine sharing your work publicly, as per the new requirement, which is 15% of your grade. Not exhuastive, but please check out these docs with tips for what may be considered [public presentation in different fields](https://docs.google.com/document/d/186AE1ZF2BduXx6XA1o_gJx4tQBvX1qQP8DyVohoFrns/edit?usp=sharing) and this [list of resources for exhibits, conferences, journals, etc.](https://docs.google.com/document/d/1OIZk3AVwgh4oFYkq5wG2bOZOkDLv-NheBGl0pz0F1Yw/edit?usp=sharing) 
 
 - List of references
