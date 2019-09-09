@@ -7,7 +7,7 @@ All assignments are due Mondays at 5pm, uploaded to our shared [Google Drive fol
 
 Your process website should be updated every week, with links to assignments, as well any other relevant information, such as pictures of project progress. More guidelines on maintaining your thesis website can be found [here:](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-process-website.html)
 
-### Week 1:
+### Due Week 1:
 - Project Pitch Due
 
 	- Be prepared to share a brief (1 page) project pitch with a classmate for peer edit. This may mean bringing in a hard copy, or making a google doc. Also submit a copy to google drive so that I may review. You will be using this pitch to solicit potential advisors for your project.  
@@ -17,7 +17,7 @@ Your process website should be updated every week, with links to assignments, as
 	- If you have another advisor in mind, send me a note so that I may review their credentials before you contact them. 
 
 
-### Week 2: 
+### Due Week 2: 
 
 - Class Website Should be Live
 
@@ -26,7 +26,7 @@ Your process website should be updated every week, with links to assignments, as
 - Proposed method + 10 minute method presentation:
 
 	- Based on last week’s methodology workshop, identify a method that makes sense for your project. Prepare a presentation that introduces and gives a brief background on the methodology, and then explain how you plan to apply this method to your project. Include any progress made so far.
-	- You should also note how you imagine sharing your work publicly, as per the new requirement, which is 15% of your grade. (Link to docs needed)
+	- You should also note how you imagine sharing your work publicly, as per the new requirement, which is 15% of your grade. Not exhuastive, but please check out these docs with tips for what may be considered [public presentation in different fields](https://docs.google.com/document/d/186AE1ZF2BduXx6XA1o_gJx4tQBvX1qQP8DyVohoFrns/edit?usp=sharing) and this [list of resources for exhibits, conferences, journals, etc.](https://docs.google.com/document/d/1OIZk3AVwgh4oFYkq5wG2bOZOkDLv-NheBGl0pz0F1Yw/edit?usp=sharing) 
 
 - List of references
 	- Choose a citation style and stick with it.  [See this link for more info](https://guides.nyu.edu/citations). 
@@ -44,7 +44,7 @@ In this essay, Donna Haraway discusses the implosion of nature and culture in th
 Your bibliography should include a diversity of sources, including contemporary publications and "canonical," texts in your field. You should use a mixture of primary and secondary sources, and your sources should be relevant to your topic area. The thoroughness of your final reference section will be a significant factor in your overal paper grade.
 	
 
-### Week 3:
+### Due Week 3:
 
 - Weekly post on your process website, highlight any progress toward your project (beyond the writing)  
 
@@ -56,7 +56,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 	- Bring 2 printed copies to class for our outlining workshop.   
  
 
-### Week 4: 
+### Due Week 4: 
 
 - Weekly post on your process website
 
@@ -69,7 +69,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 - Calendar of Production
 	- How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. Please be sure to also note your plans for fulfilling the public-presentation requirement of the thesis. 
 
-### Week 5:
+### Due Week 5:
 
 - Weekly post on your process website
 
@@ -86,7 +86,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 	- Please fill out the following form with your preferences: https://forms.gle/g1iFJjMwB3PG7Fsa9
 I will do my best to match you with someone on your list. 
 
-### Week 6 
+### Due Week 6 
 
 - Weekly post on your process website showing progress toward project
 
@@ -98,7 +98,7 @@ I will do my best to match you with someone on your list.
 	- Where appropriate, leave space for work that will happen later in semester. 
 
 
-### Week 7 
+### Due Week 7 
 
 - Mid-term presentations, advisors will be present. 
 	- No more than 10 minutes, please time yourself. These should include a brief overview of your background and method, (you may refer to your earlier paper outline) as well as your progress toward completing your project. 
