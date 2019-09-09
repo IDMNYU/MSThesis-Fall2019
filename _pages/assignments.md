@@ -52,7 +52,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 ### Due Week 3:
 
 **Weekly post on your process website** 
--highlight any progress toward your project (beyond the writing)  
+- highlight any progress toward your project (beyond the writing)  
 
 **Outline**  
 - Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
@@ -72,39 +72,45 @@ Your bibliography should include a diversity of sources, including contemporary 
 
 ### Due Week 4: 
 
-- Weekly post on your process website
+**Weekly post on your process website** 
+- highlight any progress toward your project (beyond the writing)  
 
-- Background section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
+**Background Section** 
+- Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
     - Build upon the bibliography you turned in for Week 2 for this section. 
     - minimum page requirement: 10 pages, 12pt font, double spaced (15-20 recommended.) 
 	- All sources must be cited. Background section and references account for 20% of your grade.
 
-- Calendar of Production
-	- How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. Please be sure to also note your plans for fulfilling the public-presentation requirement of the thesis. 
+**Calendar of Production**
+- How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. Please be sure to also note your plans for fulfilling the public-presentation requirement of the thesis. 
 
 ### Due Week 5:
 
-- Weekly post on your process website
+**Weekly post on your process website** 
+- showing progress toward your project 
 
-- 10 minute presentation of your work-in-progress: this should feature your progress toward project production. You do not need to include background research, beyond briefly establishing the context.
+**10 minute presentation of your work-in-progress** 
+- this should feature your progress toward project production. You do not need to include background research, beyond briefly establishing the context.
 
-- Committee Form
+**Committee Form**
 
-	- You should have met with your external advisor in person by now, and secured their signature on the advisor agreement.
+- You should have met with your external advisor in person by now, and secured their signature on the advisor agreement.
 
-	- You should also identify 3 potential faculty IDM Faculty Readers: A full-time faculty member at IDM (or within TCS) who will be on the committee.
+- You should also identify 3 potential faculty IDM Faculty Readers: A full-time faculty member at IDM (or within TCS) who will be on the committee.
 
-	- The IDM Faculty Reader will attend the student’s Thesis Defense, and will be given a digital copy of the student’s thesis paper for review at least one week BEFORE the Defense. Additional meetings with students are not required, but are welcome. 
+- The IDM Faculty Reader will attend the student’s Thesis Defense, and will be given a digital copy of the student’s thesis paper for review at least one week BEFORE the Defense. Additional meetings with students are not required, but are welcome. 
 
-	- Please fill out the following form with your preferences: https://forms.gle/g1iFJjMwB3PG7Fsa9
+- Please fill out the following form with your preferences: https://forms.gle/g1iFJjMwB3PG7Fsa9
 I will do my best to match you with someone on your list. 
 
 ### Due Week 6 
 
-- Weekly post on your process website showing progress toward project
+**Weekly post on your process website** 
+- showing progress toward your project 
 
-- Methods section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
+**Methods section due.** 
+- Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
     - Build upon the method presentation you made in Week 2 
     - minimum page requirement: 10 pages, 12pt font, double-spaced 
@@ -114,6 +120,8 @@ I will do my best to match you with someone on your list.
 
 ### Due Week 7 
 
-- Mid-term presentations, advisors will be present. 
-	- No more than 10 minutes, please time yourself. These should include a brief overview of your background and method, (you may refer to your earlier paper outline) as well as your progress toward completing your project. 
+**Mid-term presentations** 
+- Advisors will be present. 
+
+- No more than 10 minutes, please time yourself. These should include a brief overview of your background and method, (you may refer to your earlier paper outline) as well as your progress toward completing your project. 
 
