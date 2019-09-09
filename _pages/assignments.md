@@ -7,14 +7,14 @@ All assignments are due Mondays at 5pm, uploaded to our shared [Google Drive fol
 
 Your process website should be updated every week, with links to assignments, as well any other relevant information, such as pictures of project progress. More guidelines on maintaining your thesis website can be found [here:](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-process-website.html)
 
-### Due Week 1:
+## Due Week 1:
 - Project Pitch Due
 
 	- Be prepared to share a brief (1 page) project pitch with a classmate for peer edit. This may mean bringing in a hard copy, or making a google doc. Also submit a copy to google drive so that I may review. You will be using this pitch to solicit potential advisors for your project.  
 
 
 
-### Due Week 2: 
+## Due Week 2: 
 
 **Class Website Should be Live**
 
@@ -49,7 +49,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 - If you have another advisor in mind, send me a note so that I may review their credentials before you contact them. 
 
 
-### Due Week 3:
+## Due Week 3:
 
 **Weekly post on your process website** 
 - highlight any progress toward your project (beyond the writing)  
@@ -70,7 +70,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 – You are required to meet with your selected advisor IRL before the end of September. Remember to bring and ask them to sign the advisor agreement form.  
  
 
-### Due Week 4: 
+## Due Week 4: 
 
 **Weekly post on your process website** 
 - highlight any progress toward your project (beyond the writing)  
@@ -85,7 +85,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 **Calendar of Production**
 - How are you going to make this project happen? Please make a schedule that includes a weekly breakdown of the semester, and milestones you plan to hit toward project production. Please be sure to also note your plans for fulfilling the public-presentation requirement of the thesis. 
 
-### Due Week 5:
+## Due Week 5:
 
 **Weekly post on your process website** 
 - showing progress toward your project 
@@ -104,7 +104,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 - Please fill out the following form with your preferences: https://forms.gle/g1iFJjMwB3PG7Fsa9
 I will do my best to match you with someone on your list. 
 
-### Due Week 6 
+## Due Week 6 
 
 **Weekly post on your process website** 
 - showing progress toward your project 
@@ -118,7 +118,7 @@ I will do my best to match you with someone on your list.
 	- Where appropriate, leave space for work that will happen later in semester. 
 
 
-### Due Week 7 
+## Due Week 7 
 
 **Mid-term presentations** 
 - Advisors will be present. 
