@@ -16,16 +16,16 @@ Your process website should be updated every week, with links to assignments, as
 
 ### Due Week 2: 
 
-#### Class Website Should be Live
+**Class Website Should be Live**
 
 	- More guidelines on maintaining your thesis website can be found [here:](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-process-website.html)
 
-#### Proposed method + 10 minute method presentation:
+**Proposed method + 10 minute method presentation**
 
 	- Based on last week’s methodology workshop, identify a methodology AND related methods that makes sense for your project. Prepare a presentation that introduces and gives a brief background on the methodology, and then explain how you plan to apply it to your project. Include any progress made so far.
 	- You should also note how you imagine sharing your work publicly, as per the new requirement, which is 15% of your grade. Not exhuastive, but please check out these docs with tips for what may be considered [public presentation in different fields](https://docs.google.com/document/d/186AE1ZF2BduXx6XA1o_gJx4tQBvX1qQP8DyVohoFrns/edit?usp=sharing) and this [list of resources for exhibits, conferences, journals, etc.](https://docs.google.com/document/d/1OIZk3AVwgh4oFYkq5wG2bOZOkDLv-NheBGl0pz0F1Yw/edit?usp=sharing) 
 
-#### List of references
+**List of references**
 	- Choose a citation style and stick with it.  [See this link for more info](https://guides.nyu.edu/citations). 
 	
 	- Submit a Google Doc or Word file with at least 5 references. These can be journal articles, books, essays or websites––but you must have at least 3 that are scholarly publications (books or essays that are critical or theoretical in nature). 
@@ -40,7 +40,7 @@ In this essay, Donna Haraway discusses the implosion of nature and culture in th
 
 Your bibliography should include a diversity of sources, including contemporary publications and "canonical," texts in your field. You should use a mixture of primary and secondary sources, and your sources should be relevant to your topic area. The thoroughness of your final reference section will be a significant factor in your overal paper grade.
 
-#### 	Start reaching out to advisors
+**Start reaching out to advisors**
 
 - [Here](https://docs.google.com/spreadsheets/d/1EgK6Ze8O4v8VG606VNmtfX2MA5nDpR2dOT1FFCqE57o/edit?usp=sharing) will be a list of pre-approved advisors for MS Thesis. Please peruse this carefully, and look at their work. Send polite, and carefully worded pitches to potential advisors directly. (Note, there may new additions to this list up until Friday)
 
@@ -58,7 +58,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 
 	- Bring 2 printed copies to class for our outlining workshop. 
 
-#### 	Continue reaching out to advisors
+#### Continue reaching out to advisors
 
 - [Here](https://docs.google.com/spreadsheets/d/1EgK6Ze8O4v8VG606VNmtfX2MA5nDpR2dOT1FFCqE57o/edit?usp=sharing) will be a list of pre-approved advisors for MS Thesis. Please peruse this carefully, and look at their work. Send polite, and carefully worded pitches to potential advisors directly. (Note, there may new additions to this list up until Friday)
 
