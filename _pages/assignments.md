@@ -57,7 +57,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 **Outline**  
 - Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
 
-- The outline corresponds to your future Table of Contents. Refer to our shared class folder for [LINK NEEDED]and their tables of contents.   
+- The outline corresponds to your future Table of Contents. Refer to our shared class folder for [past IDM papers](https://drive.google.com/drive/folders/1L4zQWpNo_HHDNoseRf9Oo18rgjYjg3xi?usp=sharing) and their tables of contents.   
 
 - Bring 2 printed copies to class for our outlining workshop. 
 
