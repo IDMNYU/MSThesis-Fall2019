@@ -115,8 +115,8 @@ I will do my best to match you with someone on your list.
 - Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
     - Build upon the methodology presentation you made in Week 2
-    -State your research methodology and define it (source required) for example, "Speculative design is an alternative design process that has gained momentum in the last decade as a tool for approaching difficult and abstract problems pertaining to humankind’s future and its relationship to technology and sustainability, (Bleecker, 2009; Candy, 2010; Dunne and Raby, 2013)." 
-    -Explain your methods for researching and producing your project. These may include your interviews, experiments, tests. Give a detailed account of your protocol. If you conducted an experiment, your description of your method should include enough detail, that another person could replicate it exactly.  
+    - State your research methodology and define it (source required) for example, "Speculative design is an alternative design process that has gained momentum in the last decade as a tool for approaching difficult and abstract problems pertaining to humankind’s future and its relationship to technology and sustainability, (Bleecker, 2009; Candy, 2010; Dunne and Raby, 2013)." 
+    - Explain your methods for researching and producing your project. These may include your interviews, experiments, tests. Give a detailed account of your protocol. If you conducted an experiment, your description of your method should include enough detail, that another person could replicate it exactly.  
     - minimum page requirement: 10 pages, 12pt font, double-spaced 
 	- All sources must be cited. 
 	- Where appropriate, leave space for work that will happen later in semester. 
