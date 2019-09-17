@@ -54,7 +54,7 @@ Your bibliography should include a diversity of sources, including contemporary 
 **Weekly post on your process website** 
 - highlight any progress toward your project (beyond the writing)  
 
-**Outline**  
+**Expanded Outline**  
 - Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
 
 - The outline corresponds to your future Table of Contents. Refer to our shared class folder for [past IDM papers](https://drive.google.com/drive/folders/1L4zQWpNo_HHDNoseRf9Oo18rgjYjg3xi?usp=sharing) and their tables of contents.   
@@ -109,7 +109,7 @@ I will do my best to match you with someone on your list.
 **Weekly post on your process website** 
 - showing progress toward your project 
 
-**Methods section due.** 
+**Methods section due.**  
 - Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
     - Build upon the method presentation you made in Week 2 
