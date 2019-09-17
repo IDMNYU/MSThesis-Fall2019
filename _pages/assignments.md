@@ -55,9 +55,11 @@ Your bibliography should include a diversity of sources, including contemporary 
 - highlight any progress toward your project (beyond the writing)  
 
 **Expanded Outline**  
-- Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
+- Compose an expanded outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives, with  bullets points giving an outline of the content, and subsections and references where appropriate. Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) page for more details on what each of these sections may include. It may feel premature to start outlining, but trust us, it is necessary. The more work you do now, the less stress later.
 
 - The outline corresponds to your future Table of Contents. Refer to our shared class folder for [past IDM papers](https://drive.google.com/drive/folders/1L4zQWpNo_HHDNoseRf9Oo18rgjYjg3xi?usp=sharing) and their tables of contents.   
+
+- Send your outline to Liz. 
 
 - Bring 2 printed copies to class for our outlining workshop. 
 
@@ -109,10 +111,12 @@ I will do my best to match you with someone on your list.
 **Weekly post on your process website** 
 - showing progress toward your project 
 
-**Methods section due.**  
+**Methods and Methodology section due.**  
 - Refer to the [Thesis Paper](https://idmnyu.github.io/MSThesis-Fall2019/_pages/thesis-paper.html) section of the website for details.   
     - set up a citation manager of your choice before starting (recommended)
-    - Build upon the method presentation you made in Week 2 
+    - Build upon the methodology presentation you made in Week 2
+    -State your research methodology and define it (source required) for example, "Speculative design is an alternative design process that has gained momentum in the last decade as a tool for approaching difficult and abstract problems pertaining to humankind’s future and its relationship to technology and sustainability, (Bleecker, 2009; Candy, 2010; Dunne and Raby, 2013)." 
+    -Explain your methods for researching and producing your project. These may include your interviews, experiments, tests. Give a detailed account of your protocol. If you conducted an experiment, your description of your method should include enough detail, that another person could replicate it exactly.  
     - minimum page requirement: 10 pages, 12pt font, double-spaced 
 	- All sources must be cited. 
 	- Where appropriate, leave space for work that will happen later in semester. 
