@@ -32,9 +32,11 @@ Everything in this section must be properly cited.
 
 # 2. Background
 
-Here you give your reader the specific information related to the topic of interest that they need to know to understand the importance of your project. You can describe similar projects or products that are the competition. This can include, but is not limited to:
+Here you give your reader the specific information related to the topic of interest that they need to know to understand the importance of your project.
 
-Here you discuss in scholarly detail the work that has been done in this field and how it leads you to your research question. You should interpret, synthesize, relate these works in a reflective and scholarly manner: what you say here is a NOVEL interpretation of the references you have collected, taken as a whole, not a paraphrase. 
+You should discuss in scholarly detail the work that has been done in this field and how it leads you to your research question. You should interpret, synthesize, relate these works in a reflective and scholarly manner: what you say here is a NOVEL interpretation of the references you have collected, taken as a whole, not a paraphrase or summary. 
+
+In addition to a scholarly review, your background section should identify relevant projects/products, which you may view as precursors to your own work, as inspiration, or as competition. Demonstrate that you are aware of the important predescessor projects in your field, it is often the first thing people will ask you. 
 
 The background section leads to an open question in the field, or an unmet need. End it by a statement that places your project in the context of what you have just described, and how it addresses that question or need.
 
@@ -45,7 +47,7 @@ The Project section has several sub-sections, listed below
 
 ## 3.1 Description and Rationale
 
-Summarize here your project - is it a game, a VR piece, an installation? How does it work and who uses it? 
+Summarize your project - is it a game, a VR piece, an installation? How does it work and who uses it? 
 Describe how the overall design of this project addresses the open question you arrived to in your Background section. 
 
 ## 3.2 Methodologies
@@ -100,7 +102,7 @@ The conclusions for each iteration can be:
 
 For clarity, you can name each iteration \(Pilot 1, 2, 3; Experiment 1, 2, 3; Prototype alpha, beta, gold\)
 
-**Note: Please do not feel pressure to claim to have performed a formal, quantiative study, if that is not what has occurred.** Every project is different and assessment procedures will vary. You should **never** falsify or misrepresent the work you've done. You may complete a project and find that the results did not align with your initial hypothesis. You may find that rather than a conclusion, you've been led to more questions. That is ok, and is a valid finding in and of itself. 
+**Note: Please do not claim to have performed a formal, quantiative study, if that is not what has occurred.** Every project is different and assessment procedures will vary. You should **never** falsify or misrepresent the work you've done. You may complete a project and find that the results did not align with your initial hypothesis. You may find that rather than a conclusion, you've been led to more questions. That is ok, and is a valid finding in and of itself. 
 
 
 # 4. Conclusion
