@@ -34,9 +34,9 @@ Everything in this section must be properly cited.
 
 Here you give your reader the specific information related to the topic of interest that they need to know to understand the importance of your project.
 
-You should discuss in scholarly detail the work that has been done in this field and how it leads you to your research question. You should interpret, synthesize, relate these works in a reflective and scholarly manner: what you say here is a NOVEL interpretation of the references you have collected, taken as a whole, not a paraphrase or summary. 
+You should discuss in scholarly detail the work that has been done in this field and how it leads you to your research question. You should interpret, synthesize, and relate these works in a reflective and scholarly manner: what you say here is a NOVEL interpretation of the references you have collected, taken as a whole, not a paraphrase or summary. It is often useful to provide a brief history of your topic area, while citing key works in the field.
 
-In addition to a scholarly review, your background section should identify relevant projects/products, which you may view as precursors to your own work, as inspiration, or as competition. Demonstrate that you are aware of the important predescessor projects in your field, it is often the first thing people will ask you. 
+In addition to a scholarly review, your background section should identify relevant projects/products, which you may view as precursors to your own work, as inspiration, or as competition. Demonstrate that you are aware of the important predescessor projects in your field, it is often the first thing people will ask you. Depending on the project, it may also be useful to provide background information on a particular tool or technology you plan to utilize.
 
 The background section leads to an open question in the field, or an unmet need. End it by a statement that places your project in the context of what you have just described, and how it addresses that question or need.
 
