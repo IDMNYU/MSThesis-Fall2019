@@ -31,4 +31,4 @@ Class Sites:
 * [Steven](https://wp.nyu.edu/medinathesis/)
 * [Dhruv](https://medium.com/thesis-dhruvavdhesh-nyu)
 * [Flora](https://sites.google.com/nyu.edu/florarichterspre-thesisthesisp/thesis/week-2?pli=1&authuser=1)
-* [Tao](https://medium.com/@tz1182/thesis-progress-tracking-c19096d253dd)
+* [Tao](https://www.taozhang.xyz/)
