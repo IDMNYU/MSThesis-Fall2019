@@ -4,17 +4,14 @@ ___
 
 Email a google drive folder link to K McDermott.
 
-Create a Google Drive folder that contains the following. Make sure all filenames include your name and ms thesis sp17 and descriptive text of the content:
+Create a Google Drive folder in your deliverables folder titled "YourName_Archive" that contains the following. Make sure all filenames include your name:
 
 * PDFs
 
-  *  Final Thesis Paper
-
-  * Final Thesis Defense Presentation
-
-  * Letter to Next Cohort \(see description below\)
+  * Final Thesis Paper
 
   * URL to the thesis process website
+
 * Photo documentation \(for all students\)
 
     * at least3, hi-res images of your project \(RAW preferably or 300dpi\)
