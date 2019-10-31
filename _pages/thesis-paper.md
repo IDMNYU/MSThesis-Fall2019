@@ -161,7 +161,7 @@ File names with special characters
 
 2) Print it on acid-free paper (1 copy). This can be done on a regular printer. 
 
-3) binding: 
+3) Binding: 
 Bind your printed thesis along with the signature pages here: 
 
 Henry Bookbinding Company
@@ -171,6 +171,9 @@ Hours of Operation: Sunday – 8:30 a.m. to 4:30 p.m.
 Monday thru Thursdays - 8:30 a.m. to 4:30 p.m. 
 Fridays - 8:30 a.m. to 12:30 p.m.
 
+**Expect about a week of turn around time for binding**
+
 4) Turn in 1 hard copy to Eric Maiello, turn in pdf to google drive folder, see "IDM Archive Materials," page 
+**The hard deadline to turn in your bound copy and archive materials to Eric is December 19**
 
 
